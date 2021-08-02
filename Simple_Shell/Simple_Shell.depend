@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1619812237 source:/home/nour/Downloads/Simple_Shell/main.c
+	<stdio.h>
+	<string.h>
+	<signal.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<sys/types.h>
+	<stdlib.h>
+	<unistd.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<sys/wait.h>
+
